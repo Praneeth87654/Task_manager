@@ -66,7 +66,7 @@ document.addEventListener('DOMContentLoaded', () => {
           title: 'Success',
           message: 'Login successful',
         });
-        window.location.href = '../tasks.html'; // Redirect to the tasks page
+        window.location.href = '../task.html'; // Redirect to the tasks page
       }
     } catch (error) {
       console.error('Error logging in:', error); // Debugging log
