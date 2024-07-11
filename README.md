@@ -11,16 +11,10 @@ To get started with the Task Manager application, follow these steps:
 
 ## Environment Variables
 
-For the smooth execution of the application, you need to set the following environment variables:
-
 - `SERVER_PORT`: The port on which the server will run.
 - `MONGODB_CONNECTION_URL`: The URL for connecting to your MongoDB database.
 
-A sample `.env.example` file is provided. Make sure to fill in the required values and rename the file to `.env` before running the application.
-
-## Documentation
-
-Explore the application's functionality by utilizing the provided endpoints. The documentation outlines each endpoint's purpose and how to use it effectively. Please refer to the [API Documentation](https://documenter.getpostman.com/view/28416524/2s9Xy2QCRK) for detailed information.
+rename the file to `.env` before running the application.
 
 ## Running the Application
 
